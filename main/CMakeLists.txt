@@ -1,4 +1,3 @@
-# Register the component with all source files and include directories
 idf_component_register(SRCS
 "main.c" 
 "tasks/control_task/control_task.c" 
